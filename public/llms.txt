@@ -1,0 +1,21 @@
+﻿# Raxi Win
+
+> Independent India guides for Raxi Win — lobby overview, register, login, APK safety, game basics, and scam checks. Not an official operator. Host: raxiiwins.com.
+
+This site publishes step-by-step help pages. It does not collect OTPs, passwords, or payments, and it does not host APK files.
+
+## Guides
+
+- [Raxi Win](https://raxiiwins.com/): What Raxi Win is, lobby overview, how to start
+- [Raxi Win Register](https://raxiiwins.com/raxi-win-register): Mobile signup, SMS OTP, invite code
+- [Raxi Win Login](https://raxiiwins.com/raxi-win-login): Phone-number login and recovery
+- [Raxi Win APK](https://raxiiwins.com/raxi-win-apk): Download safety and install checks
+- [Raxi Win Game](https://raxiiwins.com/raxi-win-game): Lobby tiles and round basics
+- [Scam checklist](https://raxiiwins.com/guides/scam-checklist): Fake links, OTP traps, lookalikes
+- [Responsible play](https://raxiiwins.com/responsible-play): Limits and healthier habits
+
+## Technical
+
+- [Sitemap](https://raxiiwins.com/sitemap.xml)
+- [Robots](https://raxiiwins.com/robots.txt)
+- [Open Graph image](https://raxiiwins.com/images/rw-og.jpg)
