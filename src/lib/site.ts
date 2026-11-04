@@ -10,8 +10,8 @@ export const site = {
 
 /** Live app CTAs (header + hero buttons). */
 export const externalLinks = {
-  register: "https://www.raxi12.com/#/register?invitationCode=18913432260",
-  login: "https://www.raxi12.com/#/login",
+  register: "https://www.raxi888.com/#/register?invitationCode=62622134117",
+  login: "https://www.raxi888.com/#/register?invitationCode=62622134117",
   telegramGiftCodes: "https://t.me/raxiwinofficialchanne",
 } as const;
 
